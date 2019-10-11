@@ -6,3 +6,5 @@ During the course of this section, I have also learned about and how to use git 
 
 Thanks to Wikipedia for, well, everything they do ;)
 and kudos to google images
+
+deployed page: https://mllrb.github.io/my-first-website/
