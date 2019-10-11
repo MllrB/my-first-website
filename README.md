@@ -1,4 +1,4 @@
-#This is my "first" Web Page
+# This is my "first" Web Page
 
 I'm following instructions the user centric front end development module of the code institute course.
 So far, I have been using Html and CSS to structure and style this basic site which links images and text to outside sources, namely wikipedia.
