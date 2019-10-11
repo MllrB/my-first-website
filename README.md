@@ -1,7 +1,8 @@
 #This is my "first" Web Page
 
-Following the user centric front end development module of the code institute course
+I'm following instructions the user centric front end development module of the code institute course.
+So far, I have been using Html and CSS to structure and style this basic site which links images and text to outside sources, namely wikipedia.
+During the course of this section, I have also learned about and how to use git and GitHub.
 
-11/10/19
-Departed cloud 9 due to errors.
-Now using VSC and testing git and github
+Thanks to Wikipedia for, well, everything they do ;)
+and kudos to google images
